@@ -4,5 +4,12 @@
   "obsidian-enhancing-export",
   "obsidian-day-planner",
   "dataview",
-  "copilot"
+  "copilot",
+  "pretty-properties",
+  "obsidian-plugin-update-tracker",
+  "notebook-navigator",
+  "media-extended",
+  "obsidian-to-anki-plugin",
+  "obsidian-annotator",
+  "omnisearch"
 ]
